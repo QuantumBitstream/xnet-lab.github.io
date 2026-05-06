@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    // or use "node16" or "nodenext" if you prefer
+    // ... rest of your config
+  }
+}

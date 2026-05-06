@@ -1,0 +1,15 @@
+export const partners = [
+    {src: "Images/SupportersAndFunders/UoG_Logo.png", alt: "DSTL"},
+    {src: "Images/SupportersAndFunders/DASA_Logo.png", alt: "DASA"},
+    {src: "Images/SupportersAndFunders/DSIT_Logo.svg.png", alt: "EPSRC IAA"},
+    {src: "Images/SupportersAndFunders/Dstl_Logo.png", alt: "ESA"},
+    {src: "Images/SupportersAndFunders/EPSRC_Logo.svg.png", alt: "CENSIS"},
+    {src: "Images/SupportersAndFunders/ESA_Logo.jpg", alt: "GC UESTC"},
+    {src: "Images/SupportersAndFunders/ICURE_Logo.jpg", alt: "Tay Health Tech"},
+    {src: "Images/SupportersAndFunders/ScottishEnterprise_Logo.png", alt: "Tay Health Tech"},
+    {src: "Images/SupportersAndFunders/TayHealthTech_Logo.png", alt: "Tay Health Tech"},
+    {src: "Images/SupportersAndFunders/CENSIS_Logo.png", alt: "CENSIS"},
+    {src: "Images/SupportersAndFunders/UAEU.png", alt: "Tay Health Tech"},
+    {src: "Images/SupportersAndFunders/Oman.png", alt: "Tay Health Tech"},
+    {src: "Images/SupportersAndFunders/KAU.png", alt: "Tay Health Tech"},
+]
